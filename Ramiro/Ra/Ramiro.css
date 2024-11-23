@@ -1,0 +1,88 @@
+body{
+margin-top:0;
+}
+
+table.maTable{
+margin-right:0;
+margin-bottom:auto;
+margin-top:0;
+margin-left:0;
+}
+
+td.maClasse{
+font-size:30px;
+text-align:left;
+color:black;
+padding-right:70px;
+}
+
+td div.titre{
+text-align:left;
+font-family:"Brush Script MT";
+font-size:90px;
+color:#FFCD00;
+margin-bottom:40px;
+margin-top:10px;
+text-decoration:#FFCD00 wavy underline;
+text-underline-offset:25px;
+}
+
+td div.sousTitre{
+font-family:"Edwardian Script ITC";
+color:turquoise;
+font-size:100px;
+text-align:left;
+text-decoration:turquoise wavy underline;
+text-underline-offset:25px;
+margin-bottom:50px;
+}
+
+table.Filmographie{
+border-collapse:collapse;
+}
+
+td.tabtit{
+text-align:center;
+color:white;
+font-size:45px;
+border:7px solid black;
+}
+
+td.tab1{
+text-align:left;
+color:black;
+font-size:35px;
+border:7px solid black;
+}
+
+td.myClass{
+font-size:31px;
+color:black;
+text-align:center;
+padding:18px;
+margin:0 0 0 0;
+border:13px solid black;
+width:550px;
+height:1000px;
+}
+
+div.cadre{
+color:turquoise;
+font-size:50px;
+text-decoration:underline;
+}
+
+img.image{
+width:450px;
+height:495px;
+}
+
+button.dossier{
+font-size:25px;
+padding-top:0;
+padding-right:0;
+padding-bottom:0;
+padding-left:0;
+margin-left:5px;
+background-color:#FFCD00;
+}
